@@ -10,7 +10,7 @@
 2) Each city type has a relatively narrow range of values. They never intersect with one another.
 
 ## Market data per city type:
-### [Summary dataframe.csv](https://github.com/bpietrancosta/Deliverable_Module-5/files/9976228/Summary.dataframe.csv)
+![Market data summary](https://user-images.githubusercontent.com/114181709/200978013-a6dd2be2-2259-4692-b41e-04abf9a9058f.png)
 ### From the above we can make 4 key observations:
 1) The ride count in each city type is greater than the previous by a multiple: Urban / Suburban > 2 and Suburban / Rural = 5.
 2) The driver count in each city type is greater than the previous by a multiple: Urban / Suburban > ~ 5 and Suburban / Rural > 6.
