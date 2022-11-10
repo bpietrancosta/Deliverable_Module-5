@@ -2,7 +2,8 @@
 ## The purpose of this analysis is to provide specific actionable recommendations to Pyber CEO
 
 ### Weekly fares by city type from January to April 2019:
-### ![PyBer_fare_summary](https://user-images.githubusercontent.com/114181709/200971573-543376de-b145-4e22-8a42-d87a29d43850.png)
+![PyBer_fare_summary](https://user-images.githubusercontent.com/114181709/200977203-cdd25ca4-12c1-410b-b7c5-2fa5300255f6.png)
+
 ### From the above chart we can make 2 primary observations:
 ### 1) Urban environments see the greatest amount of money spent on fares, followed by Suburban and lastly Rural.
 ### 2) Each city type has a relatively narrow range of values. They never intersect with one another.
