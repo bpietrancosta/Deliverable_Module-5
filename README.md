@@ -8,9 +8,9 @@
 ## From the above chart we can make 2 primary observations:
 ### 1) Urban environments see the greatest amount of money spent on fares, followed by Suburban and lastly Rural.
 ### 2) Each city type has a relatively narrow range of values. They never intersect with one another.
-
-
-
+###
+###
+###
 ## Market data per city type:
 ### [Summary dataframe.csv](https://github.com/bpietrancosta/Deliverable_Module-5/files/9976228/Summary.dataframe.csv)
 ### From the above we can make 4 key observations:
@@ -18,8 +18,9 @@
 ### 2) The driver count in each city type is greater than the previous by a multiple: Urban / Suburban > ~ 5 and Suburban / Rural > 6.
 ### 3) The average fare per driver is inversely correlated to the values above. In Urban environments drivers make ~ $5 less than in Suburban environments and the latter group makes ~ $4 less than in Rural environments.
 ### 4) The revenue provided each sector in descending order is Urban, Suburban and Rural.
-
-
+###
+###
+###
 ## On the basis of the above we can make suggestions to Pyber's CEO. See below:
 ### 1) In the Suburban and Rural sector the quantity of drivers is lesser than the quantity of rides. Incentives to add drivers in those sectors can help equalize supply and demand.
 ### 2) In the Urban sector the reverse is true. Driver quantity exceeds ride quantity. Therefore, you could help equalize supply and demand through incentivizing drivers to go into other sectors.
