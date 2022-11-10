@@ -6,7 +6,7 @@
 
 
 ### From the above chart we can make 2 primary observations:
-### 1) Urban environments see the greatest amount of money spent on fares, followed by Suburban and lastly Rural.
+### 1) **Urban environments see the greatest amount of money spent on fares, followed by Suburban and lastly Rural.**
 ### 2) Each city type has a relatively narrow range of values. They never intersect with one another.
 ###
 ### Market data per city type:
