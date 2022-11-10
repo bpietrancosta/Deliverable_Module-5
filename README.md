@@ -24,9 +24,9 @@
 1) In the Suburban and Rural sector the quantity of drivers is lesser than the quantity of rides. Incentives to add drivers in those sectors can help equalize supply and demand.
 2) In the Urban sector the reverse is true. Driver quantity exceeds ride quantity. Therefore, you could help equalize supply and demand through incentivizing drivers to go into other sectors.
 3) The most important recommendation however, is to do significant additional research on the following topics:
-  a. Impact of driver count on ride wait time
-  b. Impact of wait time on number of rides
-  c. Average drive length per sector
-  d. Mean cost to the company per driver per sector
-  e. Definition of ride price structure as a function of sector and ride length
-  From the above you'll be able to identify what drives your profitability for any given ride. Is it having a higher 'mean fare per driver'? Or is it just maximizing the   number of rides? If drivers represent a trivial cost to the company, wait time is a key factor in attracting riders and marginal profitability is maintained, then the    number of drivers does not concern the company.
+  - Impact of driver count on ride wait time
+  - Impact of wait time on number of rides
+  - Average drive length per sector
+  - Mean cost to the company per driver per sector
+  - Definition of ride price structure as a function of sector and ride length
+  From the above you'll be able to identify what drives your profitability for any given ride. Is it having a higher 'mean fare per driver'? Or is it just maximizing the number of rides? If drivers represent a trivial cost to the company, wait time is a key factor in attracting riders and marginal profitability is maintained, then the number of drivers does not concern the company.
